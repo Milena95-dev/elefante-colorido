@@ -11,4 +11,10 @@ Mudanças:
 
 Por que das mudanças:
 
-Diferencial da idéia: Nostalgia, DIversão, Cores, Jogo Casual
+Palavras Chave: Nostalgia, DIversão, Cores, Jogo Casual
+
+Inovação:
+
+Nicho:
+
+

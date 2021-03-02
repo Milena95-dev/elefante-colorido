@@ -5,7 +5,7 @@ Idéia:
 
 Nome dos participantes: Milena Pereira Torres
 
-Tecnologias: Linguagem C# Visual Studio ; B. de Dados: ; Hospedagem: ;}
+Tecnologias: Linguagem C# Visual Studio ; B. de Dados: ; Hospedagem: ;
 
 Mudanças:
 

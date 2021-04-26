@@ -5,7 +5,7 @@ Idéia:Um jogo casual de tocar em objetos com a cor que esteja sendo pedida na t
 
 Nome dos participantes: Milena Pereira Torres
 
-Tecnologias: Linguagem C# Visual Studio ; B. de Dados:MongoDB ; Hospedagem:não haverá pois não há nada relacionado a internet ;
+Tecnologias: Linguagem Java ; B. de Dados:MongoDB ; Hospedagem:não haverá pois não há nada relacionado a internet ;
 
 Protótipo postado no Catarse em: Ainda não colocado.
 

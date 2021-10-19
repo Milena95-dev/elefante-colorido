@@ -36,9 +36,13 @@ Limitações: Caso a tela de cadastro não esteja finalizada até 19 de outubro 
 Alcance: Finalizar a tela de cadastro, começar as próximas telas até 20 de novembro de 2021.
 
 Passos para vizualizar a tela de cadastro até o momento:
+
 1- Baixar os documentos: Código HMTL, VIsual CSS e Cadastro JS
+
 2- Abrir os 3 códigos no visual code studio
+
 3- Abrir o Código HTML por navegador Mozilla Firefox ou Google Chrome (ou arrastar o arquivo até os navegadores citados)
+
 4- Testar o código implementado.
 
 

@@ -25,5 +25,13 @@ Nicho:Diversão casual e nostalgia em jogos da infância.
 
 Desenvolvimento web: Tela de cadastro no momoento é a parte mais importante.
 
+Restrições: Somente tela de cadastro inserida no sistema no momento, desenvolver as demais telas do jogo após concluir o cadastro. A tela de cadastro deve conter obrigações como censura na senha, tornar os campos de e-mail e senha obrigatório o preenchimento para acessar o jogo.
 
+Regras de negócio: Protótipo de alto nível conlcuído, tela de cadastro em andamento, tela do jogo em andamento.
+
+Decisões: Finalizar a tela de cadastro e após finalizada sem bugs nos testes, partir para a tela do menu do jogo.
+
+Limitações: Caso a tela de cadastro não esteja finalizada até 19 de outubro de 2021, não continuar as demais telas.
+
+Alcance: Finalizar a tela de cadastro, começar as próximas telas até 20 de novembro de 2021.
 

@@ -23,4 +23,7 @@ Inovação:nostalgia, jogo casual porém com temática diferenciada
 
 Nicho:Diversão casual e nostalgia em jogos da infância.
 
+Desenvolvimento web: Tela de cadastro no momoento é a parte mais importante.
+
+
 

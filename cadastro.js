@@ -39,7 +39,6 @@ class Validator {
   
     }
   
-    // validar se tem um mínimo de caracteres
     minlength(input, minValue) {
   
       let inputLength = input.value.length;

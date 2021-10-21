@@ -71,7 +71,7 @@ class Validator {
   
     }
   
-    emailvalidate(input) {
+    emailValidate(input) {
         
       let re = /\S+@\S+\.\S+/;
       let email = input.value;
@@ -101,7 +101,7 @@ class Validator {
   
     }
   
-    passwordvalidate(input) {
+    passwordValidate(input) {
   
       // explodir string em array
       let charArr = input.value.split("");

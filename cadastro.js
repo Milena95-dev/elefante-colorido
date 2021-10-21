@@ -48,8 +48,7 @@ class Validator {
       }
   
     }
-  
-    //validar se passou do máximo de caracteres
+
     maxlength(input, maxValue) {
   
       let inputLength = input.value.length;

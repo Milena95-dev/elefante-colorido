@@ -12,7 +12,7 @@
 
 ## Requirements
 1. JavaScript
-2. Visual Code Studio
+2. PlayCanvas
 3. PostgreSQL
 ## How to use
 ### To start the Prototype
